@@ -1,0 +1,1 @@
+Ushbu loyihada [Figma](https://www.figma.com/design/yAEbu6TWYTat2ckeDTmzuq/UYGA-VAZIFA?node-id=0-3&node-type=frame&t=5yX6mWmvVttCfSPz-0) saytidan bitta loyihani clone yasalgan.Ushbu loyiha html va css yordamida yozilgan.
